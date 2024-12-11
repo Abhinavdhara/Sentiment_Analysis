@@ -102,9 +102,6 @@ The model used in this project is pre-trained and stored as `sentiment_model.pkl
 ## Contributing
 Feel free to fork this repository, make enhancements, and submit a pull request. Contributions are always welcome!
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgments
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Heroku Deployment Guide](https://devcenter.heroku.com/articles/getting-started-with-python)
